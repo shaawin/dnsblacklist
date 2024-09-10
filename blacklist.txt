@@ -1,3 +1,5 @@
 signal.auto.mydlink.com
 mydlink.com
 au.mydlink.com
+www.mydlink.com.au
+mydlink.com.au
