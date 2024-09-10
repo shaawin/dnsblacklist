@@ -1,2 +1,2 @@
- signal.auto.mydlink.com
- mydlink.com
+signal.auto.mydlink.com
+mydlink.com
